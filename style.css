@@ -1,0 +1,26 @@
+        
+        h1,h2 {
+            color: #80bf7f;
+            border : solid;
+        }
+        .header{
+            color : blue;
+            background-color : skyblue;
+            display : flex;
+            justify-content : space-between;
+            border : solid;
+        }
+       
+        .pics{
+            background-color : #123456;
+            display : flex;
+            flex-wrap : wrap;
+            justify-content : space-evenly;
+            color : red;
+            border : solid;
+        }
+
+        
+       body {
+            background-color : #8f4a5c
+        }
